@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mamun Or Rashid 👋
 
-<!--
-**maamunrcd/maamunrcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Frontend Developer | React.js · Next.js · TypeScript
 
-Here are some ideas to get you started:
+I build scalable, responsive, and user-friendly web applications with a focus on performance, maintainability, and great user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on frontend development and modern web applications
+- 💻 Focused on React.js, Next.js, TypeScript, and frontend architecture
+- ⚡ Interested in web performance, Core Web Vitals, and AI-assisted engineering
+- 🌍 Open to remote opportunities and challenging product engineering roles
+
+### Tech Stack
+
+**Languages:** JavaScript, TypeScript, HTML5, CSS3
+
+**Frontend:** React.js, Next.js, Tailwind CSS, SASS
+
+**State Management:** Redux, Zustand
+
+**UI Libraries:** PrimeReact, Ant Design, Material UI
+
+**Data & Forms:** REST APIs, Axios, SWR, React Hook Form
+
+**Testing & Tools:** Jest, Git, GitHub, GitLab, Cursor, Claude
+
+### Featured Projects
+
+Check out my repositories for projects demonstrating frontend architecture, reusable components, API integration, and performance optimization.
+
+### Connect With Me
+
+- LinkedIn: https://linkedin.com/in/maamunrcd
+- GitHub: https://github.com/maamunrcd
+
+---
+
+*Building better web experiences, one feature at a time.*
